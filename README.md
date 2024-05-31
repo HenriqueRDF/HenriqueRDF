@@ -1,8 +1,8 @@
-##Bem-vindo ao meu GitHub!
+## Bem-vindo ao meu GitHub!
 
 👋 Olá! Sou @HenriqueRDF, um estudante de Ciência de Dados. Aqui, você encontrará uma coleção dos meus projetos e estudos.
 
-##Sobre Mim
+## Sobre Mim
 
 👀 Interesses:  Exploração de dados, análise estatística, aprendizado de máquina, visualização de dados, inteligência artificial.
 🌱 Atualmente aprendendo: Python para análise de dados, bibliotecas como Pandas, NumPy, Python para desenvolvimento App como PyQt6.
