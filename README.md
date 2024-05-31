@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu GitHub!
 
-👋 Olá! Sou @HenriqueRDF, um estudante de Ciência de Dados. Aqui, você encontrará uma coleção dos meus projetos e estudos.
+👋 Olá! Sou - [@HenriqueRDF](https://github.com/HenriqueRDF), um estudante de Ciência de Dados. Aqui, você encontrará uma coleção dos meus projetos e estudos.
 
 ## Sobre Mim
 
