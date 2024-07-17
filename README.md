@@ -15,4 +15,3 @@
 
 😄 Pronomes: Ele/dele.
 
-⚡ Curiosidade divertida: Além de tecnologia, sou um entusiasta de 🌸perfumaria🌸 e adoro explorar novas fragrâncias e aprender sobre a composição dos perfumes.
