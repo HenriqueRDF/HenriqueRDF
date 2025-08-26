@@ -19,8 +19,9 @@ Sou [@HenriqueRDF](https://github.com/HenriqueRDF), um estudante de **Ciência d
 
 ### 🔧 Linguagens & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,r,java,cs,cpp,vscode,pycharm,git,github" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,r,java,cs,cpp,haskell,vscode,pycharm,git,github" />
 </p>
+
 
 
 ## 📊 Bibliotecas de Dados
