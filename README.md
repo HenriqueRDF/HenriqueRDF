@@ -7,7 +7,7 @@
 I'm [@HenriqueRDF](https://github.com/HenriqueRDF), a **Data Science** student passionate about transforming data into actionable insights. I specialize in **data analysis, machine learning, and data visualization**, and I enjoy applying these skills to solve real-world business problems.  
 
 - 👀 **Interests:** Data exploration, statistical analysis, machine learning, data visualization, AI  
-- 🌱 **Currently Learning:** Python (Pandas, NumPy), PyQt6 for application development  
+- 🌱 **Currently Learning:** Python (Pandas, NumPy), Haskell, and more
 - 💼 **Looking to Collaborate on:** Data analysis, ML projects, AI applications in business and finance  
 - 😄 **Pronouns:** He/Him  
 
